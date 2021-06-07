@@ -5,3 +5,4 @@ Tujuan untuk membuat github adalah untuk belajar:
 
 Cara untuk bisa terhubung lebih dari 1 branch:
 1.Ini adalah branch pertama dan ini merupakan sebuah branch pertama yang akan digabungkan dengan branch yang lainnya dan akan digabungkan dengan pusat.
+2.Ini adalah branch kedua atau cabang kedua merupakan branch yang akan ditambahkan ke pusat utama
