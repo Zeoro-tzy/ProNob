@@ -4,7 +4,4 @@ Tujuan dari pembelajaran:
 3.Membuat sebuah perkembangan setiap waktu
 
 Ini adalah branch pertama.Tujuan selanjutnya adalah sebagai berikut:
-1.Membuat github lebih baik lagi ke depannya
-2.Belajar bagaimana bisa membuat kumpulan source code di github
-3.Lebih banyak memahami nilai
-4.Belajar lebih giat
+Ini saja yang harus kita perbaiki
