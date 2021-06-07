@@ -1,7 +1,7 @@
-Tujuan untuk membuat github adalah untuk belajar:
-1.Belajar bekerja sama dalam sebuah tim
-2.Belajar untuk bisa lebih bertanggung jawab
-4.Untuk melihat seberapa jauh kemampuan
+Tujuan dari pembelajaran:
+1.Agar mampu bekerja sama lebih baik kedepannya
+2.Membuat sebuah nilai yang tidak dapat diliat tapi bisa dirasakan
+3.Membuat sebuah perkembangan setiap waktu
 
 Ini adalah branch pertama.Tujuan selanjutnya adalah sebagai berikut:
 1.Membuat github lebih baik lagi ke depannya
