@@ -5,7 +5,6 @@ Tujuan dari pembelajaran:
 
 Kali ini yang harus diperhatikan dalam membuat sebuah nilai:
 1.Belajar lebih baik daripada yang lain
-2.Jangan banyak omong
-3.Ini adalah branch pertama.Tujuan selanjutnya adalah sebagai berikut:
-Ini saja yang harus kita perbaiki
+2.Sering melakukan sesuatu yang menarik
+3.Cari tantangan sebanyak mungkin dan sesulit mungkin
 
